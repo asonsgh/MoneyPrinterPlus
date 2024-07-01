@@ -5,7 +5,7 @@ tenacity==8.3.0
 openai
 azure-cognitiveservices-speech
 streamlit==1.34.0
-wxPython
+Python
 pillow
 qianfan
 dashscope
