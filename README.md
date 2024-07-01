@@ -1,60 +1,24 @@
-- [MoneyPrinterPlus](#moneyprinterplus)
-- [Video Tutorial](#Video Tutorial)
-- [Interface Overview](#Interface Overview)
-- [Implemented Functions](#Implemented Functions)
-- [Functions to be implemented](#Functions to be implemented)
-- [Example Demonstration](#Example Demonstration)
-- [How to use](#How to use)
-- [Environmental Requirements](#Environmental Requirements)
-- [Installation](#Installation)
-- [Run](#Run)
-- [Basic Configuration](#Basic Configuration)
-- [AI Video](#ai Video)
-- [Generate Video Copy](#Generate Video Copy)
-- [Video Dubbing and Background Music](#Video Dubbing and Background Music)
-- [Video Configuration](#Video Configuration)
-- [Subtitle Configuration](#Subtitle Configuration)
-- [Generate Video](#Generate Video)
-- [Common Problems and Solutions](#Common Problems and Solutions)
-- [Discussion Group](#Discussion Group)
-- [Series of Tutorials](#Series of Tutorials)
-
 # MoneyPrinterPlus
-
 This is a project that makes money easily.
-
 In the era of short videos, whoever controls the traffic controls the money!
-
 So I share this carefully crafted MoneyPrinter project with you.
-
 **It can: use AI big model technology to batch generate various short videos with one click. **
-
 **It can: mix and cut short videos with one click, batch generating short videos is not a dream. **
-
 **It can: automatically publish videos to Douyin, Kuaishou, Xiaohongshu, and Video Account. **
 
 Making money has never been so easy!
 
-If you find it useful, please give me a star! ![Github stars](https://img.shields.io/github/stars/ddean2009/MoneyPrinterPlus.svg)
-
 # Video tutorial
-
 ## Brief introduction
-
 https://www.bilibili.com/video/BV16VVGefEp1/?spm_id_from=333.999.0.0&vd_source=a563b6c970df6e7665845c15089bd618
 
 ## Detailed introduction
 
 https://www.bilibili.com/video/BV1JKgYe5ERF/?pop_share=1&vd_source=a563b6c970df6e7665845c15089bd618
-
 ## Introduction to batch short video generation
-
 https://www.bilibili.com/video/BV1v43eekECn/?spm_id_from=333.999.0.0&vd_source=a563b6c970df6e7665845c15089bd618
-
 # Graphic series tutorials
-
 [Introduction to moneyPrinterPlus](https://mp.weixin.qq.com/s/0p9T_WFJ_yXcj74TgI7iMw)
-
 [Detailed tutorial on how to use moneyPrinterPlus](https://mp.weixin.qq.com/s/fAdws2grcZknG8VLQfjMjg)
 
 [Detailed configuration tutorial on how to use moneyPrinterPlus Alibaba Cloud](https://mp.weixin.qq.com/s?__biz=MzIxMTI0NzcyMQ==&mid=2650935498&idx=1&sn=7d29a350f36e14686252e9a22d8fce23&chksm=8cae87ccbbd90edaea45b595ec4028b91e464061c0a 2f37f1f15e97f593fd7b51edba765ed6e&cur_album_id=1821975747683532806&scene=189#wechat_redirect)
@@ -83,23 +47,17 @@ Introduction:
 ![](auto_video_publish.gif)
 
 # Update Preview
-
 * Video Mixing Function is Now Available! ! ! !
-
 * This week, we will consider launching the video automatic publishing tool, so stay tuned! ! ! !
-
 # Update List
 
 - 20240628 Major Update! Support batch video mixing, batch generate a large number of non-repetitive short videos!!!!!!
-
 - 20240620 Optimize the video synthesis effect to make the video end more natural.
-
 - 20240619 Voice recognition and voice synthesis **support Tencent Cloud**. Need to enable Tencent Cloud speech synthesis and speech recognition
 - 20240615 Speech recognition and speech synthesis **support Alibaba Cloud**. Need to enable Alibaba Cloud intelligent voice interaction function--must enable speech synthesis and recording file recognition (fast version)
 - 20240614 Resource library supports pixabay, supports voice audition function, and fixes some bugs
 
 # Implemented functions
-
 - [x] Batch video mixing, batch output of a large number of non-repetitive short videos
 - [x] Support local material selection (support various materials mp4, jpg, png), support various resolutions.
 - [x] Large model access to OpenAI, Azure, Kimi, Qianfan, Baichuan, Tongyi Qwen, DeepSeek,
